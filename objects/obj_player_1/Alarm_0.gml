@@ -2,4 +2,4 @@
 // You can write your code in this editor
  
 
-canPushBall = true;
+can_push_ball = true;

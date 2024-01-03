@@ -2,8 +2,6 @@
 // You can write your code in this editor
 randomize();
 
-if keyboard_check(ord("R")) game_restart()
-
 if (bbox_top < 128) {
 	vspeed = -vspeed;
 	speed +=speed_multiplier
@@ -19,4 +17,3 @@ if (bbox_bottom > room_height){
 }
 
 image_angle += 1
-
