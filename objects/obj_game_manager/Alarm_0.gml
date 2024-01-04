@@ -1,5 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-speed_multiplier = 0.5
-moving=false;
+pause = false;
