@@ -17,4 +17,6 @@ if obj_ball.x<room_width/2 {
 	obj_player_1.y = 320;
 	obj_player_2.y = 320;
 	obj_p1_portrait.sprite_index=spr_p1_portrait_shiny;
+	var ps = part_system_create_layer("Instances_1", false);
+	part_particles_burst(ps,room_width/2,room_height/2,ParticleSystem1);
 }
