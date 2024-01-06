@@ -40,6 +40,7 @@
     {"name":"__scribble_get_anim_properties","order":1,"path":"scripts/__scribble_get_anim_properties/__scribble_get_anim_properties.yy",},
     {"name":"scribble_markdown_set_styles","order":4,"path":"scripts/scribble_markdown_set_styles/scribble_markdown_set_styles.yy",},
     {"name":"scribble_typists_add_event","order":7,"path":"scripts/scribble_typists_add_event/scribble_typists_add_event.yy",},
+    {"name":"obj_p2_portrait","order":9,"path":"objects/obj_p2_portrait/obj_p2_portrait.yy",},
     {"name":"scribble_fallback_font","order":13,"path":"fonts/scribble_fallback_font/scribble_fallback_font.yy",},
     {"name":"string_width_scribble","order":5,"path":"scripts/string_width_scribble/string_width_scribble.yy",},
     {"name":"__scribble_get_state","order":14,"path":"scripts/__scribble_get_state/__scribble_get_state.yy",},

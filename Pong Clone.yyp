@@ -63,6 +63,7 @@
     {"id":{"name":"scribble_markdown_set_styles","path":"scripts/scribble_markdown_set_styles/scribble_markdown_set_styles.yy",},},
     {"id":{"name":"__scribble_effects_maps_initialize","path":"scripts/__scribble_effects_maps_initialize/__scribble_effects_maps_initialize.yy",},},
     {"id":{"name":"scribble_typists_add_event","path":"scripts/scribble_typists_add_event/scribble_typists_add_event.yy",},},
+    {"id":{"name":"obj_p2_portrait","path":"objects/obj_p2_portrait/obj_p2_portrait.yy",},},
     {"id":{"name":"scribble_fallback_font","path":"fonts/scribble_fallback_font/scribble_fallback_font.yy",},},
     {"id":{"name":"string_width_scribble","path":"scripts/string_width_scribble/string_width_scribble.yy",},},
     {"id":{"name":"__scribble_get_state","path":"scripts/__scribble_get_state/__scribble_get_state.yy",},},

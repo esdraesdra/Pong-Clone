@@ -4,7 +4,7 @@
   "name": "spr_p2_portrait",
   "bbox_bottom": 132,
   "bbox_left": 0,
-  "bbox_right": 111,
+  "bbox_right": 214,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fff2bde2-8614-462f-9d76-2d4ae9f98cdd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"40b97fec-a31a-4ae5-8076-028256d01cc5",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 133,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"88216c97-b5c2-4c0c-8eeb-6760174cf927","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e014a583-1a52-4615-9413-72ab45a81a70","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": {
     "resourceType": "GMNineSliceData",
@@ -46,7 +46,7 @@
     ],
     "top": 0,
   },
-  "origin": 0,
+  "origin": 9,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
@@ -77,13 +77,13 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fff2bde2-8614-462f-9d76-2d4ae9f98cdd","path":"sprites/spr_p2_portrait/spr_p2_portrait.yy",},},},"Disabled":false,"id":"15b5d450-c503-447a-9be8-d3d5a8f95f31","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"40b97fec-a31a-4ae5-8076-028256d01cc5","path":"sprites/spr_p2_portrait/spr_p2_portrait.yy",},},},"Disabled":false,"id":"708ec4b2-9d57-4d3e-baba-58112e1cae9c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 0,
-    "yorigin": 0,
+    "xorigin": 112,
+    "yorigin": 117,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
@@ -93,5 +93,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 112,
+  "width": 215,
 }
