@@ -117,6 +117,7 @@
     {"name":"scribble_anim_wave","order":7,"path":"scripts/scribble_anim_wave/scribble_anim_wave.yy",},
     {"name":"__scribble_font_add_all_from_project","order":6,"path":"scripts/__scribble_font_add_all_from_project/__scribble_font_add_all_from_project.yy",},
     {"name":"scribble_glyph_get","order":16,"path":"scripts/scribble_glyph_get/scribble_glyph_get.yy",},
+    {"name":"Sequence1_Events109","order":16,"path":"scripts/Sequence1_Events109/Sequence1_Events109.yy",},
     {"name":"scribble_anim_jitter","order":2,"path":"scripts/scribble_anim_jitter/scribble_anim_jitter.yy",},
     {"name":"scribble_font_rename","order":12,"path":"scripts/scribble_font_rename/scribble_font_rename.yy",},
     {"name":"scribble_anim_wobble","order":9,"path":"scripts/scribble_anim_wobble/scribble_anim_wobble.yy",},
