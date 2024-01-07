@@ -1,8 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-//draw_text(0,0,p1_points)
-draw_text(0,15,p2_points)
-draw_text(0,30,pause)
-draw_text(0,45,floor(alarm_value/60)+1)
-scribble("[wobble][scale,5]"+string(p1_points)).draw(0,0);
+
+scribble("[wobble][fa_center][scale,4][f_countdown]"+string(p1_points)).draw(164,22);
+scribble("[wobble][fa_center][scale,4][f_countdown]"+string(p2_points)).draw(room_width-164,22);
+
+var _countdown = floor(alarm_value/60)+1;
+
+if _countdown!=0 scribble("[fa_center][scale,5][f_countdown]"+string(_countdown)).draw(room_width/2,24);
+
+

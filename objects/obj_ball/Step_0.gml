@@ -5,7 +5,7 @@ if pause=true{
 	hspeed=0;
 	vspeed=0;
 	x=672
-	y=448;
+	y=384;
 }
 
 if pause=false and moving=false{
@@ -15,7 +15,7 @@ if pause=false and moving=false{
 	moving=true
 }
 
-if (bbox_top < 128) {
+if (bbox_top < 0) {
 	vspeed = -vspeed;
 	speed +=speed_multiplier
 	if hspeed>0 direction = irandom_range(340,290)//choose(315,300,285);
