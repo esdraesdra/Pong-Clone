@@ -14,10 +14,7 @@
     "resourceVersion": "1.0",
     "Keyframes": [],
   },
-  "eventStubScript": {
-    "name": "Sequence1_Events109",
-    "path": "scripts/Sequence1_Events109/Sequence1_Events109.yy",
-  },
+  "eventStubScript": null,
   "eventToFunction": {},
   "length": 60.0,
   "lockOrigin": false,

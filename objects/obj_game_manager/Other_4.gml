@@ -1,9 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-/// @description Insert description here
-// You can write your code in this editor
-
 if room==rm_p1_vs_p2{
 	randomize();
 	

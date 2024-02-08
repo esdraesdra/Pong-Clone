@@ -13,3 +13,11 @@ pause = true;
 alarm[0] = 3*room_speed;
 
 alarm_value=0
+
+globalvar points_2_win;
+points_2_win = 1;
+
+globalvar game_over;
+game_over = false;
+
+game_over_options = 0;
