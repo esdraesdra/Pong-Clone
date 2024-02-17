@@ -15,7 +15,7 @@ alarm[0] = 3*room_speed;
 alarm_value=0
 
 globalvar points_2_win;
-points_2_win = 1;
+points_2_win = 5;
 
 globalvar game_over;
 game_over = false;

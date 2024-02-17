@@ -4,7 +4,9 @@
 if keyboard_check(ord("R")) game_restart()
 alarm_value = alarm_get(0)
 
-if (p2_points or p1_points)=points_2_win {game_over = true; pause=true;}
+if p1_points=points_2_win { game_over = true; pause=true;}
+
+if p2_points=points_2_win { game_over = true; pause=true;}
 
 if game_over{
 	if game_over_options<0 game_over_options=0;
