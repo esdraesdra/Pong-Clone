@@ -4,12 +4,14 @@
 if keyboard_check(ord("R")) game_restart()
 alarm_value = alarm_get(0)
 
+//point check to win PvP!
 if p1_points=points_2_win { game_over = true; pause=true;}
-
 if p2_points=points_2_win { game_over = true; pause=true;}
 
-if game_over{
-	if game_over_options<0 game_over_options=0;
+
+
+if game_over{ 
+	if game_over_options<0 game_over_options=0; 
 	if game_over_options>1 game_over_options=1;
 
 	if keyboard_check_pressed(vk_up) or keyboard_check_pressed(ord("W")) game_over_options--;

@@ -1,11 +1,10 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Colisao bola player2
 
-if (other.can_push_ball){
-	hspeed=-hspeed;
-	other.can_push_ball=false;
-	other.alarm[0]=60;
-	speed +=speed_multiplier;
-}
+var dif = other.y - y;			 //diferença y do player - y da bola
+var maxx= other.sprite_height/2; //maximo da diferença
+var ratio = (dif/maxx)*45;		 //ratio 
 
+direction=180-ratio;
+speed +=speed_multiplier;
 
+show_debug_message(ratio);

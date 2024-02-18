@@ -21,3 +21,5 @@ globalvar game_over;
 game_over = false;
 
 game_over_options = 0;
+
+show_debug_log(true)
