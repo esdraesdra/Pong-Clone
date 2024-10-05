@@ -11,4 +11,4 @@ if !pause{
 
 if place_meeting(x+96,y+96,obj_ball) or place_meeting(x-32,y-32,obj_ball) image_index = 1; else image_index = 0;
 
-if pause=true { y=wave(y-5,y+5,3,0);}
+//if pause=true { y=wave(y-5,y+5,3,0);}
