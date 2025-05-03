@@ -1,4 +1,4 @@
-if room==rm_p1_vs_p2{
+if room==rm_start_menu{
 	randomize();
 	
 	var _lay_id = layer_get_id("Background");
@@ -22,4 +22,3 @@ if room==rm_p1_vs_p2{
 	layer_vspeed(_lay_id,_vspeed[_i_round_background_vspeed]);
 	layer_background_change(_back_id,_random_background);
 }
-

@@ -1,5 +1,11 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 start_menu_options = 0;
-
+var str_pvp = "P v P"
+var str_pve = "P v E"
+var arrw = ">"
+var arrw2 = "<"
+effec_1 = ""
+effec_2 = ""
+mn1 = effec_1+"[fa_center][scale,4][f_countdown]"+str_pvp
+mn2 = effec_2+"[fa_center][scale,4][f_countdown]"+str_pve
+arrw_1 = "[fa_center][scale,4][f_countdown]"+arrw
+arrw_2 = "[fa_center][scale,4][f_countdown]"+arrw2

@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 globalvar p1_points;
 p1_points = 0;
 
@@ -22,4 +19,4 @@ game_over = false;
 
 game_over_options = 0;
 
-show_debug_log(true)
+show_debug_log(0)

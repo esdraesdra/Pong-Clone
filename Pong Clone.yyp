@@ -191,8 +191,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_p1_vs_p2","path":"rooms/rm_p1_vs_p2/rm_p1_vs_p2.yy",},},
     {"roomId":{"name":"rm_start_menu","path":"rooms/rm_start_menu/rm_start_menu.yy",},},
+    {"roomId":{"name":"rm_p1_vs_p2","path":"rooms/rm_p1_vs_p2/rm_p1_vs_p2.yy",},},
     {"roomId":{"name":"rm_vs_bot","path":"rooms/rm_vs_bot/rm_vs_bot.yy",},},
   ],
   "templateType":"game",
